@@ -1,0 +1,11 @@
+Flower
+Cart
+House
+Sky
+Moon
+Sunny
+Cloud
+Day
+Kitten
+Diamond
+Stone
